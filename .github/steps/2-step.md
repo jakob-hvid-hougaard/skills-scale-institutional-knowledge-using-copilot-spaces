@@ -34,11 +34,11 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 
    Open your Copilot Space you created in the previous step. https://github.com/copilot/spaces and select **Yours** and select **"OctoAcme Project Management Hub"**
 
-   <img width="50%" alt="The Yours tab in Copilot Spaces listing your spaces" src="../images/copilot-spaces-yours.png" />
+   <img width="50%" alt="The Yours tab in Copilot Spaces listing your spaces" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-yours.png?raw=true" />
 
 2. Start a new conversation in the Copilot Space and prompt the following:
 
-   <img width="70%" alt="Prompting the Copilot Space to summarize the project management docs" src="../images/copilot-spaces-conversation-summary.png" />
+   <img width="70%" alt="Prompting the Copilot Space to summarize the project management docs" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-conversation-summary.png?raw=true" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -51,7 +51,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    <details>
    <summary> 📷 Show screenshot of the conversation output</summary>
 
-   <img width="50%" alt="Copilot Space conversation output showing the generated process summary" src="../images/copilot-spaces-conversation-summary-output.png" />
+   <img width="50%" alt="Copilot Space conversation output showing the generated process summary" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-conversation-summary-output.png?raw=true" />
 
    </details>
 
@@ -76,7 +76,7 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
 4. **Create the pull request**: Now send this prompt to create the pull request:
 
-   <img width="80%" alt="Prompt to create a pull request from the attached README issue in Copilot Space" src="../images/repository-issue-pr-creation-step2.png" />
+   <img width="80%" alt="Prompt to create a pull request from the attached README issue in Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/repository-issue-pr-creation-step2.png?raw=true" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -94,11 +94,11 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 > [!NOTE]
 > If an issue or pull request is not created, click the **Retry** button shown below
 
-<img width="215" alt="Retry button to regenerate the issue or pull request in Copilot Space" src="../images/retry-copilot-space.png" />
+<img width="215" alt="Retry button to regenerate the issue or pull request in Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/retry-copilot-space.png?raw=true" />
 
 5. **Allow the Copilot Cloud Agent**: When prompted, select **Allow** to let the Copilot Cloud Agent work on your repository
 
-   <img width="100%" alt="Allow prompt granting the Copilot Cloud Agent access to the repository" src="../images/copilot-cloud-agent-allow.png" />
+   <img width="100%" alt="Allow prompt granting the Copilot Cloud Agent access to the repository" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-cloud-agent-allow.png?raw=true" />
 
 6. **Monitor progress**: You should receive a notification that the Copilot Cloud Agent is working on your pull request.
 
@@ -108,17 +108,17 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
    Go to your repository and click **Pull requests** and select the pull request to see the progress:
 
-      <img width="70%" alt="Pull requests tab in the repository showing the open pull request" src="../images/pull-requests.png" />
+      <img width="70%" alt="Pull requests tab in the repository showing the open pull request" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/pull-requests.png?raw=true" />
 
    #### Option 2: Check Agent Sessions in your Copilot Space on the left side under Agent sessions
 
    You can track the progress of the Copilot Cloud Agent and view details on the left side under **Agent sessions**. Click on the session to see details about the tasks being performed by the agent.
 
-      <img width="40%" alt="Agent sessions panel in the Copilot Space showing the running session" src="../images/agent-sessions-1.png" />
+      <img width="40%" alt="Agent sessions panel in the Copilot Space showing the running session" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/agent-sessions-1.png?raw=true" />
 
    You can get to the pull request that the agent is working on by clicking the link in the session details at the bottom where it says **View pull request**.
 
-      <img width="40%" alt="View pull request link in the Copilot Space session details" src="../images/view-pull-request.png" />
+      <img width="40%" alt="View pull request link in the Copilot Space session details" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/view-pull-request.png?raw=true" />
 
 7. **Check open pull requests**: We can check pull request status from our **Copilot Space** as well.
 
@@ -128,25 +128,25 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
    > check open pull requests
    > ```
 
-   <img width="40%" alt="Copilot Space response listing the open pull request" src="../images/check-open-prs-2.png" />
+   <img width="40%" alt="Copilot Space response listing the open pull request" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/check-open-prs-2.png?raw=true" />
 
    Click the link to the pull request in the Copilot Space to view the PR details and monitor the Copilot Cloud Agent's progress.
 
 > [!NOTE]
-> The Copilot Cloud Agent typically takes 5-15 minutes to complete the work. If you want to track the work that the Copilot Cloud Agent is doing from within the pull request, click **View session** <img width="10%" alt="View session button on the pull request" src="../images/view-session.png" /> to watch the progress if desired.
+> The Copilot Cloud Agent typically takes 5-15 minutes to complete the work. If you want to track the work that the Copilot Cloud Agent is doing from within the pull request, click **View session** <img width="10%" alt="View session button on the pull request" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/view-session.png?raw=true" /> to watch the progress if desired.
 
 8. **Review and merge**: Once the pull request is ready:
 
    a. **Submit review**: Leave a comment (optional), click **Approve**, then **Submit review**
 
-      <img width="70%" alt="Approving the pull request in the review form" src="../images/add-review.png" />
+      <img width="70%" alt="Approving the pull request in the review form" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-review.png?raw=true" />
 
-      <img width="50%" alt="Submit review button in the pull request review form" src="../images/submit-review.png" />
+      <img width="50%" alt="Submit review button in the pull request review form" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/submit-review.png?raw=true" />
 
    b. **Merge**: Select **Ready for review**, then **Merge pull request** and **Confirm merge**
 
-      <img width="50%" alt="Marking the pull request as ready for review" src="../images/ready-for-review.png" />
-      <img width="50%" alt="Merge pull request button on the pull request" src="../images/merge-pull-request.png" />
+      <img width="50%" alt="Marking the pull request as ready for review" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/ready-for-review.png?raw=true" />
+      <img width="50%" alt="Merge pull request button on the pull request" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/merge-pull-request.png?raw=true" />
 
    c. **Confirm issue closure**: Open the issue linked from the pull request and verify that GitHub marked it **Closed** after the pull request merged.
 

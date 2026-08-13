@@ -32,7 +32,7 @@ To get started, you need access to Copilot Spaces and a GitHub Copilot plan. Eac
 
 1. Click **Create Space**
 
-   <img width="50%" alt="Create Space button in GitHub Copilot Spaces" src="../images/copilot-spaces-create-space.png" />
+   <img width="50%" alt="Create Space button in GitHub Copilot Spaces" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-create-space.png?raw=true" />
 
    Add a description:
 
@@ -41,13 +41,13 @@ To get started, you need access to Copilot Spaces and a GitHub Copilot plan. Eac
       > for the OctoAcme organization
       > ```
 
-      <img width="50%" alt="Adding a description to the Copilot Space" src="../images/copilot-spaces-description.png" />
+      <img width="50%" alt="Adding a description to the Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-description.png?raw=true" />
 
 ### ⌨️ Activity: Add instructions to your Copilot Space
 
 1. In your newly created Copilot Space, look for the **Instructions** box and click in the **Instructions** box
 
-   <img width="50%" alt="Instructions box in a Copilot Space" src="../images/copilot-spaces-instructions.png" />
+   <img width="50%" alt="Instructions box in a Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-instructions.png?raw=true" />
 
 1. Add the following instructions to provide context about the repository and its purpose
 
@@ -74,13 +74,13 @@ To get started, you need access to Copilot Spaces and a GitHub Copilot plan. Eac
 
    It should look something like this when you're done:
 
-   <img width="50%" alt="Copilot Space Instructions box filled in with repository context" src="../images/copilot-spaces-instructions-detail.png" />
+   <img width="50%" alt="Copilot Space Instructions box filled in with repository context" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-instructions-detail.png?raw=true" />
 
 1. Click **Save**
 
 ### ⌨️ Activity: Add your cloned repository as a source repository to your Copilot Space
 
-1. In your newly created Copilot Space, look for the <img width="15%" alt="Add sources button in a Copilot Space" src="../images/add-sources-button.png" /> button
+1. In your newly created Copilot Space, look for the <img width="15%" alt="Add sources button in a Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-sources-button.png?raw=true" /> button
 1. Click **Add files from repository**
    - Copy and paste your GitHub repository for this exercise called out below.
    - You can also type the name in the search and it will come up as well or copy/paste the name below.
@@ -94,9 +94,9 @@ To get started, you need access to Copilot Spaces and a GitHub Copilot plan. Eac
 1. Select the `docs` and the `.github/ISSUE_TEMPLATE` folders and click **Add**
 1. Verify the repository appears in your sources list
 
-   <img width="30%" alt="Add sources dialog in a Copilot Space" src="../images/add-sources.png" />
-   <img width="30%" alt="Selecting a repository as a source in a Copilot Space" src="../images/add-sources-repository.png" />
-   <img width="30%" alt="Selecting the docs and issue template folders as Copilot Space sources" src="../images/add-sources-repository-files.png" />
+   <img width="30%" alt="Add sources dialog in a Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-sources.png?raw=true" />
+   <img width="30%" alt="Selecting a repository as a source in a Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-sources-repository.png?raw=true" />
+   <img width="30%" alt="Selecting the docs and issue template folders as Copilot Space sources" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-sources-repository-files.png?raw=true" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
@@ -119,12 +119,12 @@ You can then add this issue to your repository by clicking the **Create** button
 > [!NOTE]
 > If an issue is not created, click the **Retry** button shown below
 
-<img width="215" alt="Retry button to regenerate the issue or pull request in Copilot Space" src="../images/retry-copilot-space.png" />
+<img width="215" alt="Retry button to regenerate the issue or pull request in Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/retry-copilot-space.png?raw=true" />
 
 <details>
 <summary> 📷 Show screenshot of the issue draft</summary>
 
-<img width="50%" alt="Draft of the README issue in Copilot Space" src="../images/readme-issue-drafted.png" />
+<img width="50%" alt="Draft of the README issue in Copilot Space" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/readme-issue-drafted.png?raw=true" />
 
 </details>
 You can copy or open the link in a new tab to see the newly created issue
@@ -132,7 +132,7 @@ You can copy or open the link in a new tab to see the newly created issue
 <details>
 <summary> 📷 Show screenshot of the created issue</summary>
 
-<img width="50%" alt="The created README issue shown in the repository" src="../images/readme-issue-created.png" />
+<img width="50%" alt="The created README issue shown in the repository" src="https://github.com/jakob-hvid-hougaard/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/readme-issue-created.png?raw=true" />
 
 </details>
 
